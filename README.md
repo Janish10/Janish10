@@ -14,29 +14,41 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img align="right" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif"/>
 
-## 👾 About Me
+## 💻 About Me
 
-```python
-class JanishAndrin:
-    def __init__(self):
-        self.name       = "Janish Andrin J"
-        self.role       = ["Ethical Hacker", "Bug Bounty Hunter", "AI Engineer"]
-        self.location   = "India 🇮🇳"
-        self.languages  = ["Python", "Bash", "JavaScript", "Go"]
-        self.focus      = ["Web App Pentesting", "API Security", "AI/ML Security"]
-        self.platforms  = ["Bugcrowd", "HackerOne", "Intigriti"]
-        self.hobbies    = ["CTFs", "Red Teaming", "Research", "Coffee ☕"]
+```bash
+┌──(janish㉿kali)-[~]
+└─$ whoami
+  Janish Andrin J
 
-    def current_mission(self):
-        return "Making the internet safer, one vulnerability at a time 🛡️"
+┌──(janish㉿kali)-[~]
+└─$ cat roles.txt
+  [+] Ethical Hacker
+  [+] Bug Bounty Hunter
+  [+] AI Security Engineer
 
-    def life_motto(self):
-        return "Think like an attacker, act like a defender."
+┌──(janish㉿kali)-[~]
+└─$ cat skills.txt
+  [*] Web App Pentesting  |  API Security
+  [*] AI/ML Security      |  Red Teaming
+  [*] OSINT               |  CTF Player
 
-me = JanishAndrin()
-print(me.current_mission())
+┌──(janish㉿kali)-[~]
+└─$ cat platforms.txt
+  [>] Bugcrowd  |  HackerOne  |  Intigriti
+
+┌──(janish㉿kali)-[~]
+└─$ ./motto.sh
+  "Think like an attacker, act like a defender."
+
+┌──(janish㉿kali)-[~]
+└─$ ./mission.sh
+  Making the internet safer, one bug at a time 🛡️
+
+┌──(janish㉿kali)-[~]
+└─$ █
 ```
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
