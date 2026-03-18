@@ -3,18 +3,20 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=300&section=header&text=Janish%20Andrin%20J&fontSize=80&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter&descAlignY=58&descAlign=center&descSize=18&descColor=a78bfa"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<!-- Typing SVG -->
-<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=🔐+Breaking+Things+to+Make+Them+Stronger...;🕵️+Finding+Bugs+Before+The+Bad+Guys+Do...;🤖+Engineering+AI+Powered+Security+Tools...;💀+There+is+no+patch+for+human+stupidity...;🛡️+Securing+The+Digital+World+One+Bug+At+A+Time..." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa&icon_color=00f5ff" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janish10&theme=midnight-purple&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
+
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img align="right" width="360" src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif"/>
 
 ## 💻 About Me
 
@@ -93,19 +95,6 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa&icon_color=00f5ff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janish10&theme=midnight-purple&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
-
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
