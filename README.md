@@ -5,15 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=🔐+Breaking+Things+to+Make+Them+Stronger...;🕵️+Finding+Bugs+Before+The+Bad+Guys+Do...;🤖+Engineering+AI+Powered+Security+Tools...;💀+There+is+no+patch+for+human+stupidity...;🛡️+Securing+The+Digital+World+One+Bug+At+A+Time..." alt="Typing SVG" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa&icon_color=00f5ff" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janish10&theme=midnight-purple&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
-
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -52,6 +43,21 @@
 ┌──(janish㉿kali)-[~]
 └─$ █
 ```
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa&icon_color=00f5ff" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janish10&theme=midnight-purple&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
+
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -96,15 +102,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🏆 Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Janish10&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -116,7 +114,6 @@
 |:---:|:---:|:---:|
 | 🟠 Bugcrowd | 🔴 Active Hunter | Web Apps, APIs |
 | ⬛ HackerOne | 🔴 Active Hunter | Web Apps, Mobile |
-| 🟣 Intigriti | 🟡 Hunting | Logic Flaws |
 
 </div>
 
