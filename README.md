@@ -45,11 +45,9 @@ print(me.current_mission())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janish-andrin/)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6200?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/janish_andrin)
-[![HackerOne](https://img.shields.io/badge/HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janish-andrin/)&nbsp;&nbsp;
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6200?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/janish_andrin)&nbsp;&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xy.D3vil)
 
 </div>
 
@@ -88,12 +86,12 @@ print(me.current_mission())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=janish-andrin&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa&icon_color=00f5ff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janish-andrin&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa&icon_color=00f5ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janish10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=a78bfa" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janish-andrin&theme=midnight-purple&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janish10&theme=midnight-purple&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
 
 </div>
 
@@ -103,7 +101,7 @@ print(me.current_mission())
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=janish-andrin&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Janish10&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -137,7 +135,7 @@ print(me.current_mission())
 
 <div align="center">
 
-[![Janish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janish-andrin&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Janish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Janish10&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -156,7 +154,7 @@ print(me.current_mission())
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=janish-andrin&label=Profile%20Views&icon=5&pretty=true&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Janish10&label=Profile%20Views&icon=5&pretty=true&color=7)](https://visitcount.itsvg.in)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=120&section=footer&fontColor=00f5ff"/>
 
