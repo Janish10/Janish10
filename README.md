@@ -24,21 +24,10 @@
 
 ┌──(janish㉿kali)-[~]
 └─$ cat skills.txt
-  [*] Web App Pentesting  |  API Security
+  [*] Web App Pentesting  |  Threat Intelligence
   [*] AI/ML Security      |  Red Teaming
   [*] OSINT               |  CTF Player
 
-┌──(janish㉿kali)-[~]
-└─$ cat platforms.txt
-  [>] Bugcrowd  |  HackerOne  |  Intigriti
-
-┌──(janish㉿kali)-[~]
-└─$ ./motto.sh
-  "Think like an attacker, act like a defender."
-
-┌──(janish㉿kali)-[~]
-└─$ ./mission.sh
-  Making the internet safer, one bug at a time 🛡️
 
 ┌──(janish㉿kali)-[~]
 └─$ █
