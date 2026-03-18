@@ -28,9 +28,6 @@
   [*] AI/ML Security      |  Red Teaming
   [*] OSINT               |  CTF Player
 
-
-┌──(janish㉿kali)-[~]
-└─$ █
 ```
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -108,15 +105,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## ✍️ Hacker's Quote
-
-<div align="center">
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates&font=Redressed)
-
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 Contribution Graph
 
